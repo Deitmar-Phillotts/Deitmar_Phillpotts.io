@@ -7,3 +7,4 @@ My name is *Deitmar* , I attend **Wake Tech College** and I am in my first year.
 dpphillotts@my.waketech.edu
 
 I use [Youtube](https://youtube.com) to find a lot of info to help with my classes.
+!

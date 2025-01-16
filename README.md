@@ -1,9 +1,8 @@
 # Deitmar-Phillpotts.io
 
-<body>
-My name is Deitmar , I attend Wake Tech College and I am in my first year.
-Online classes is something new to me. I hope I am successful in this class.
- This is my school account, I plan to build my GITHub knowledge here.
+
+My name is *Deitmar* , I attend **Wake Tech College** and I am in my first year.<br>Online classes is something new to me. That being the case I hope I am successful in this class. <br> This is my school account, I plan to build my GITHub knowledge here.
  
 dpphillotts@my.waketech.edu
-<body>
+
+I use [Youtube](https://youtube.com) to find a lot of info to help with my classes.

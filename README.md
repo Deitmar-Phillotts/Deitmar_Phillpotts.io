@@ -1,5 +1,4 @@
 # Deitmar-Phillpotts.io
- Web-Prgm-DB
 
 <body>
 My name is Deitmar , I attend Wake Tech College and I am in my first year.

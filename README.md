@@ -8,15 +8,16 @@ This is my school account, I plan to build my GITHub knowledge here.
 My email address is dpphillotts@my.waketech.edu
 
 ## About Me
- I grew up in Jamaica which can be really challenging.  
-After leaving High School at age 16 I became independent , working for your first boss at a construction company.   
+ I grew up in Jamaica which can be really challenging.  I have many scars and broken bones.
+After leaving High School at age 16 I became independent , working for my first boss at a construction company.   
 In Jamaica most of my working years has been centered around the hotel industry.   
 In between I also worked in the records department of a hospital and as a security guard for four years.  
 I have three sisters, and my Mom is still alive and well. All here in America with me.  
-My mother showed incredible determination in bringing you and your family to America, a process that took 12 years.  
-You’re also a proud parent to a son who serves in the army, embodying the same strength and dedication that seems to run in your family. 
-My late father played a part in shaping my life story. He made me self sufficient, and in a bad way made me sceptical.  
-In a way that I don't believe in luck, only input will pay. 
+My mother showed incredible determination in bringing my family and I to America, a process that took her 12 years.  
+I am also a proud parent to a son who serves in the army, embodying the same strength and dedication that seems to run in the family.  
+My Grandfather served in Guantanamo Bay. My late father played a part in shaping my life story.  
+He made me self sufficient, and in a bad way made me sceptical.  
+Where as I don't believe in luck, only input will pay. And Earth will have her way. 
 I am easily bored, and I realized that as I got older I am not able to read for long periods anymore.  
 I am happy for podcasts and ebooks on [Spotify](www.spotify.com) . Listsening to the human voice is very comforting to me.
 I miss Jamaica , I miss hanging out at the corner shop talking to friends til late in the night.  

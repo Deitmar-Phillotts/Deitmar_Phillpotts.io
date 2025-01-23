@@ -22,6 +22,7 @@ I am also a proud parent to a son who serves in the army, embodying the same str
 My late father played a part in shaping my life story. One day he said to me "*I trust no one, not even you*." He is dead now, and now I miss him.
 He made me self sufficient, I am never afraif to try new things. To move on, so I have never settled long enough.  
 In a bad way, He made me sceptical. Where as I don't believe in luck, only input will pay. And Earth will have her way. Trust only **God**.
+Pablo , a Rastafarian who taught me how to appreciate life and how to genuinely love people. He was a people person.
 
 ### Me
   I am easily bored, and I realized that as I got older I am not able to read for long periods anymore.  

@@ -2,7 +2,7 @@
 ## Deitmar-Phillpotts.io ##
  
 
-My name is *Deitmar* , I attend **Wake Tech College** and I am in my first year.  Online classes is something new to me. That being the case I hope I am successful in this class.  
+My name is *Deitmar* , I attend **Wake Tech Community College** and I am in my first year.  Online classes is something new to me. That being the case I hope I am successful in this class.  
 This is my school account, I plan to build my GITHub knowledge here.
  
 My email address is dpphillotts@my.waketech.edu
@@ -46,8 +46,8 @@ LOL!! (*me getting with the times*)
     * Differnt Types of Music
 
 ## Websites I Find interesting
-    1. [Youtube](www.youtube.com) It has a lot of information, not just short form videos. I listen to;
+    1. [Youtube](www.youtube.com) It has a lot of valuable information, not just short form videos. I listen to;
         * Ted Talks
-        * Interviews etc.
-    2. [Spotify](www.spotify.com), more music than I know what to do with. Beautiful invention, much better than Napster.
+        * Interviews of CEOs , Execs, People with real guidance to help you develop etc.
+    2. [Spotify](www.spotify.com), I use the app more music than I know what to do with. Beautiful invention, much better than Napster.
     3. Also I found Robinhood (*investment*), don't know much. Learning little at a time. 

@@ -3,15 +3,14 @@
  
 
 My name is *Deitmar* , I attend **Wake Tech Community College** and I am in my first year.  Online classes is something new to me. That being the case I hope I am successful in this class.  
-This is my school account, I plan to build my GITHub knowledge here.
- 
-My email address is dpphillotts@my.waketech.edu
+This is my school account, and I plan to build my GITHub knowledge here.  My email address is dpphillotts@my.waketech.edu
 
 ## About Me
 
  I grew up in Jamaica which can be really challenging.  I have many scars and broken bones to prove it.  
-After leaving High School at age 16 I became independent , working for my first boss at a construction company. Her name was Bernadette Chin, she took me in as her son.   
-I then missed home and resigned. In Jamaica most of my working years has been centered around the hotel industry.   
+After leaving High School at age 16 I became independent , working for my first boss at a construction company.  
+Her name was Bernadette Chin, she took me in as her son. I then missed home and resigned.  
+ In Jamaica most of my working years has been centered around the hotel industry.   
 In between I also worked in the records department of a hospital and as a security guard for four years.  
 I have three sisters, and my Mom is still alive and well. All here in America with me.  
 My mother showed incredible determination in bringing my family and I to America, a process that took her 12 years.  

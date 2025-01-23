@@ -54,7 +54,7 @@ With that said , I'd say I am interested in ;
 
 ## Websites I Find interesting
   
-  1. [Youtube](www.youtube.com) It has a lot of valuable information, not just short form videos. I listen to;
+  1. [Youtube](www.youtube.com) It has a lot of valuable information, not just short form videos. I listen to;  
        * Ted Talks
        * Interviews of CEOs , Execs, People with real guidance to help you develop your mind, etc.
        * History
@@ -65,8 +65,8 @@ With that said , I'd say I am interested in ;
  Here is my [Spotify playlist] , also on Spotify my current [book]. The name of   
  the [book] is *Fooled by Randomness: The Hidden Role of Chance by Nassim Nicholas Taleb*.
    
- All of this I found out on the internet, not at a physical library or the record store. Oh, how times have changed and will  
-keep changing. Even faster now with the advent of **AI**. I used **AI** to fix my errors in this assignment.
+ All of this I found out on the internet, not at a physical library or the record store.  
+ Oh, how times have changed and will keep changing. Even faster now with the advent of **AI**. I used **AI** to fix my errors in this assignment.
  
  
  [book]:https://open.spotify.com/show/5Ec2WyIHNBicwaQpgbCrcx?si=yPQVlX4xRWWqOS_-fB-rBw

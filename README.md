@@ -41,13 +41,15 @@ Better than the days of BASIC or QBasic (only 1980s kids will know what I'm talk
 LOL!! (*me getting with the times*)
 
 ## My Interests
-    * I am interested in the human being.
-    * Technology
-    * Differnt Types of Music
+I find solace in my own company, I live trouble free and I try to keep my mind clear. I have very few interests, I'd rather go to bed.  
+With that said , I'd say I am interested in ;
+    * the Human being. People are mezmerizing.
+    * Technology ; of all kind. Machinery is amazing, AI all of it.
+    * Differnt Types of Music ; I love all music. I think music is speech to your heart and neverves. Hear music you love and you feel it in your skin.
 
 ## Websites I Find interesting
     1. [Youtube](www.youtube.com) It has a lot of valuable information, not just short form videos. I listen to;
         * Ted Talks
-        * Interviews of CEOs , Execs, People with real guidance to help you develop etc.
-    2. [Spotify](www.spotify.com), I use the app more music than I know what to do with. Beautiful invention, much better than Napster.
+        * Interviews of CEOs , Execs, People with real guidance to help you develop your mind, etc.
+    2. [Spotify](www.spotify.com), I use the app. It has more music than I know what to do with. Beautiful invention, much better than Napster.
     3. Also I found Robinhood (*investment*), don't know much. Learning little at a time. 

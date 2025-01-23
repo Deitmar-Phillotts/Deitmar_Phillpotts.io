@@ -1,9 +1,9 @@
 # Web, Pgm, & Db Foundation (2025SP.CTI.110.0003)
-## Deitmar Phillpotts
- 
+## Deitmar Phillpotts  
+*dpphillotts@my.waketech.edu*
 
 My name is *Deitmar* , I attend **Wake Tech Community College** and I am in my first year.  Online classes is something new to me. That being the case I hope I am successful in this class.  
-This is my school account, and I plan to build my GITHub knowledge here.  My email address is dpphillotts@my.waketech.edu
+This is my school account, and I plan to build my GITHub knowledge here.
 
 ## About Me
 
@@ -60,7 +60,7 @@ With that said , I'd say I am interested in ;
        * History
        * Documentary
    2. [Spotify](www.spotify.com), I use the app. It has more music than I know what to do with. Beautiful invention, much better than Napster.
-   3. Also I found Robinhood (*investment*), don't know much. Learning little at a time. 
+   3. Also I found *Robinhood* (*investment*), don't know much. Learning little at a time. 
  
  Here is my [Spotify playlist] , also on Spotify my current [book]. The name of the [book] is *Fooled by Randomness: The Hidden Role of Chance by Nassim Nicholas Taleb*.
    

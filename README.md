@@ -52,11 +52,11 @@ With that said , I'd say I am interested in ;
 
 ## Websites I Find interesting
 >   
-    1. [Youtube](www.youtube.com) It has a lot of valuable information, not just short form videos. I listen to;
-        * Ted Talks
-        * Interviews of CEOs , Execs, People with real guidance to help you develop your mind, etc.
-    2. [Spotify](www.spotify.com), I use the app. It has more music than I know what to do with. Beautiful invention, much better than Napster.
-    3. Also I found Robinhood (*investment*), don't know much. Learning little at a time. 
+>  1. [Youtube](www.youtube.com) It has a lot of valuable information, not just short form videos. I listen to;
+>       * Ted Talks
+>       * Interviews of CEOs , Execs, People with real guidance to help you develop your mind, etc.
+>   2. [Spotify](www.spotify.com), I use the app. It has more music than I know what to do with. Beautiful invention, much better than Napster.
+>   3. Also I found Robinhood (*investment*), don't know much. Learning little at a time. 
 > 
 ### Here is my Spotify [playlist][playlist] , also on Spotify my current book. The name of   
 ### [the book][book] is *Fooled by Randomness: The Hidden Role of Chance by Nassim Nicholas Taleb*.

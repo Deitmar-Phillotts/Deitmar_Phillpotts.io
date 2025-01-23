@@ -64,8 +64,8 @@ With that said , I'd say I am interested in ;
 > All of this I found out on the internet, not at a physical library or the record store. Oh, how times have changed and will  
 keep changing. Even faster now with the advent of **AI**. 
 > 
-[the book][book]
-[playlist][playlist]
-[book][https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.spotify.com%2Fshow%2F5Ec2WyIHNBicwaQpgbCrcx%3Fsi%3DyPQVlX4xRWWqOS_-fB-rBw&data=05%7C02%7Cdpphillpotts%40my.waketech.edu%7C1627d5d4bd3d4cbaa1ff08dd3b8755a7%7C16cc8ad984fe481db9b048e7758c41aa%7C0%7C0%7C638732174649809218%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KAllXExwN1UkPvISNc8ukFEa6XMeD%2BydD4ER4zItWEg%3D&reserved=0]
-[playlist][https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F37i9dQZF1E4q2ZCpznE62A%3Fsi%3D-pVV3nNxRYaUMNiReaMW5Q%26pi%3Du-K0gAeP04S4u7&data=05%7C02%7Cdpphillpotts%40my.waketech.edu%7C1627d5d4bd3d4cbaa1ff08dd3b8755a7%7C16cc8ad984fe481db9b048e7758c41aa%7C0%7C0%7C638732174649794771%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rjzDc3ql%2B4KjSRKEEWDb7jV4rAbLGB7eh%2Ba6stipmLI%3D&reserved=0]
+> [the book][book]
+> [playlist][playlist]
+> [book](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.spotify.com%2Fshow%2F5Ec2WyIHNBicwaQpgbCrcx%3Fsi%3DyPQVlX4xRWWqOS_-fB-rBw&data=05%7C02%7Cdpphillpotts%40my.waketech.edu%7C1627d5d4bd3d4cbaa1ff08dd3b8755a7%7C16cc8ad984fe481db9b048e7758c41aa%7C0%7C0%7C638732174649809218%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KAllXExwN1UkPvISNc8ukFEa6XMeD%2BydD4ER4zItWEg%3D&reserved=0)
+> [playlist](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F37i9dQZF1E4q2ZCpznE62A%3Fsi%3D-pVV3nNxRYaUMNiReaMW5Q%26pi%3Du-K0gAeP04S4u7&data=05%7C02%7Cdpphillpotts%40my.waketech.edu%7C1627d5d4bd3d4cbaa1ff08dd3b8755a7%7C16cc8ad984fe481db9b048e7758c41aa%7C0%7C0%7C638732174649794771%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rjzDc3ql%2B4KjSRKEEWDb7jV4rAbLGB7eh%2Ba6stipmLI%3D&reserved=0)
 > 

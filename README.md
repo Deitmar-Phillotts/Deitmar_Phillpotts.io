@@ -1,5 +1,5 @@
 # Web, Pgm, & Db Foundation (2025SP.CTI.110.0003)
-## Deitmar Phillpotts    *dpphillotts@my.waketech.edu*
+## Deitmar Phillpotts   ... ###*dpphillotts@my.waketech.edu*
 
 My name is *Deitmar* , I attend **Wake Tech Community College** and I am in my first year.  Online classes is something new to me. That being the case I hope I am successful in this class.  
 This is my school account, and I plan to build my GITHub knowledge here.

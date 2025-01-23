@@ -8,27 +8,36 @@ This is my school account, I plan to build my GITHub knowledge here.
 My email address is dpphillotts@my.waketech.edu
 
 ## About Me
- I grew up in Jamaica which can be really challenging.  I have many scars and broken bones.
-After leaving High School at age 16 I became independent , working for my first boss at a construction company.   
-In Jamaica most of my working years has been centered around the hotel industry.   
+  I grew up in Jamaica which can be really challenging.  I have many scars and broken bones.
+After leaving High School at age 16 I became independent , working for my first boss at a construction company. Her name was Bernadette Chin, she took me in as her son.   
+I then missed home and resigned. In Jamaica most of my working years has been centered around the hotel industry.   
 In between I also worked in the records department of a hospital and as a security guard for four years.  
 I have three sisters, and my Mom is still alive and well. All here in America with me.  
 My mother showed incredible determination in bringing my family and I to America, a process that took her 12 years.  
 I am also a proud parent to a son who serves in the army, embodying the same strength and dedication that seems to run in the family.  
-My Grandfather served in Guantanamo Bay. My late father played a part in shaping my life story.  
-He made me self sufficient, and in a bad way made me sceptical.  
-Where as I don't believe in luck, only input will pay. And Earth will have her way. 
-I am easily bored, and I realized that as I got older I am not able to read for long periods anymore.  
+
+ ### My Role Models - The Men WHo Shaped My Psychy
+ 
+  My Grandfather served in Guantanamo Bay. He was quiet and unassuming. Never disagreeing with my Grandmother.  
+My late father played a part in shaping my life story. One day he said to me "*I trust no one, not even you*." He is dead now, and now I miss him.
+He made me self sufficient, I am never afraif to try new things. To move on, so I have never settled long enough.  
+In a bad way, He made me sceptical. Where as I don't believe in luck, only input will pay. And Earth will have her way. Trust only **God**.
+
+### Me
+  I am easily bored, and I realized that as I got older I am not able to read for long periods anymore.  
 I am happy for podcasts and ebooks on [Spotify](www.spotify.com) . Listsening to the human voice is very comforting to me.
 I miss Jamaica , I miss hanging out at the corner shop talking to friends til late in the night.  
 Drinking *white rum* . I have **no** friends in America. Only my Mom, Son and Sisters.
 
 > "The next chapter of my life is always more interesting than the last one.” —Michael Lipsey.
 
-I read that on Google, the internet has so much knowledge. For example GIT is all over Youtube, I follow this content   
+
+This is so true, it's never over til the fat lady sings. I don't know the song, but I know she hasn't sung it yet.
+I read that quote on Google, the internet has so much knowledge. For example GIT is all over Youtube, I follow this content   
 creator called [SMolJames](https://www.youtube.com/watch?v=Eb3lOiukwAQ). He has a great way of explaining this topic.
-I pointed all of this out to say that wew are living in a time when there are great possibilities.
-Better than the days of BASIC or QBasic. 
+I pointed all of this out to say that wew are living in a time when there are great possibilities. With infinte knowledge at our finger tips.
+Better than the days of BASIC or QBasic (only 1980s kids will know what I'm talking about).
+LOL!! (*me getting with the times*)
 
 ## My Interests
     * I am interested in the human being.
@@ -36,8 +45,8 @@ Better than the days of BASIC or QBasic.
     * Differnt Types of Music
 
 ## Websites I Find interesting
-    1. [Youtube](www.youtube.com) It has a lot of information, not just short form videos.
+    1. [Youtube](www.youtube.com) It has a lot of information, not just short form videos. I listen to;
         * Ted Talks
         * Interviews etc.
-    2. [Spotify](www.spotify.com)
-    3. Also I found Robinhood (*investment*), don't know much. Learning little at a time.
+    2. [Spotify](www.spotify.com), more music than I know what to do with. Beautiful invention, much better than Napster.
+    3. Also I found Robinhood (*investment*), don't know much. Learning little at a time. 

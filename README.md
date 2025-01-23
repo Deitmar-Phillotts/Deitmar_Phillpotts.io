@@ -58,8 +58,8 @@ With that said , I'd say I am interested in ;
 >   2. [Spotify](www.spotify.com), I use the app. It has more music than I know what to do with. Beautiful invention, much better than Napster.
 >   3. Also I found Robinhood (*investment*), don't know much. Learning little at a time. 
 > 
-### Here is my Spotify [playlist] , also on Spotify my current book. The name of   
-### the [book] is *Fooled by Randomness: The Hidden Role of Chance by Nassim Nicholas Taleb*.
+> Here is my Spotify [playlist] , also on Spotify my current book. The name of   
+> the [book] is *Fooled by Randomness: The Hidden Role of Chance by Nassim Nicholas Taleb*.
 >   
 > All of this I found out on the internet, not at a physical library or the record store. Oh, how times have changed and will  
 keep changing. Even faster now with the advent of **AI**. 

@@ -1,5 +1,5 @@
-# Web, Pgm, & Db Foundation (2025SP.CTI.110.0003) #
-## Deitmar-Phillpotts.io ##
+# Web, Pgm, & Db Foundation (2025SP.CTI.110.0003)
+## Deitmar-Phillpotts.io
  
 
 My name is *Deitmar* , I attend **Wake Tech Community College** and I am in my first year.  Online classes is something new to me. That being the case I hope I am successful in this class.  
@@ -22,15 +22,16 @@ I am also a proud parent to a son who serves in the army, embodying the same str
  My Grandfather served in Guantanamo Bay. He was quiet and unassuming, hard worker. Never disagreeing with my Grandmother.   
 My late father played a part in shaping my life story. One day he said to me "*I trust no one, not even you*." He is dead now, and now I miss him.
 He made me self sufficient, I am never afraid to try new things. To move on, from anything is easy. So I have never settled long enough.  
-In a bad way, He made me sceptical. So I trust no one and don't believe in luck, only input will pay. Father time and mother Earth will have their way. Trust only **God**.
+In a bad way, He made me sceptical. So I trust no one and don't believe in luck, only input will pay. Father time and mother Earth will have their way.  Trust only **God**.  
 A big influence was Pablo , a Rastafarian who taught me how to appreciate life and how to genuinely love people. He was a people person.
 
-### Me
+### *Me*
 
  I am easily bored, and I realized that as I got older I am not able to read for long periods anymore.   
-I am happy for podcasts and ebooks on [Spotify](www.spotify.com) . Listening to the human voice is very comforting to me.
+I am happy for podcasts and ebooks on [Spotify](www.spotify.com) . Listening to the human voice is very comforting to me.  
 I miss Jamaica , I miss hanging out at the corner shop talking to friends and strangers til late in the night.  
-Drinking *white rum* . I have **no** friends in America. Only my Mom, Son and Sisters. It's lonely here, but I'm brave.
+Drinking *white rum* .  
+I have **no** friends in America. Only my Mom, Son and Sisters. It's lonely here, but I'm brave. *I **must** be brave.*
 
  ### "The next chapter of my life is always more interesting than the last one.” —Michael Lipsey.
 
@@ -48,9 +49,9 @@ LOL!! (*me getting with the times*)
     
  I find solace in my own company, I live trouble free and I try to keep my mind clear. I have very few interests, I'd rather go to bed.  
 With that said , I'd say I am interested in ;
-        1. the Human being. People are mezmerizing.
-        2. Technology ; of all kind. Machinery is amazing, AI all of it.
-        3. Differnt Types of Music ; I love all music. I think music is speech to your heart and neverves. Hear music you love and you feel it in your skin.
+  1. the Human being. People are mezmerizing.
+  2. Technology ; of all kind. Machinery is amazing, AI all of it.
+  3. Differnt Types of Music ; I love all music. I think music is speech to your heart and neverves. Hear music you love and you feel it in your skin.
 
 ## Websites I Find interesting
   
@@ -62,8 +63,7 @@ With that said , I'd say I am interested in ;
    2. [Spotify](www.spotify.com), I use the app. It has more music than I know what to do with. Beautiful invention, much better than Napster.
    3. Also I found Robinhood (*investment*), don't know much. Learning little at a time. 
  
- Here is my [Spotify playlist] , also on Spotify my current [book]. The name of   
- the [book] is *Fooled by Randomness: The Hidden Role of Chance by Nassim Nicholas Taleb*.
+ Here is my [Spotify playlist] , also on Spotify my current [book]. The name of the [book] is *Fooled by Randomness: The Hidden Role of Chance by Nassim Nicholas Taleb*.
    
  All of this I found out on the internet, not at a physical library or the record store.  
  Oh, how times have changed and will keep changing. Even faster now with the advent of **AI**. I used **AI** to fix my errors in this assignment.

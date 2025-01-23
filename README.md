@@ -38,8 +38,7 @@ I have **no** friends in America. Only my Mom, Son and Sisters. It's lonely here
  This is so true, these are words I have lived by. It's never over til the fat lady sings.  
  I don't know the song, but I know she hasn't sung it yet.  
 
-I read that quote on Google, the internet has so much knowledge. For example GIT is all over Youtube, I follow this content   
-creator called [SMolJames](https://www.youtube.com/watch?v=Eb3lOiukwAQ). He has a great way of explaining this topic.
+I read that quote on Google, the internet has so much knowledge. For example GIT is all over Youtube, I follow this content creator called [SMolJames](https://www.youtube.com/watch?v=Eb3lOiukwAQ). He has a great way of explaining this topic.
 I pointed all of this out to say that wew are living in a time when there are great possibilities. With infinte knowledge at our finger tips.
 Better than the days of BASIC or QBasic (only 1980s kids will know what I'm talking about).
 LOL!! (*me getting with the times*)

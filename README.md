@@ -42,10 +42,10 @@ LOL!! (*me getting with the times*)
 
 ## My Interests
 I find solace in my own company, I live trouble free and I try to keep my mind clear. I have very few interests, I'd rather go to bed.  
-With that said , I'd say I am interested in ;
-    * the Human being. People are mezmerizing.
-    * Technology ; of all kind. Machinery is amazing, AI all of it.
-    * Differnt Types of Music ; I love all music. I think music is speech to your heart and neverves. Hear music you love and you feel it in your skin.
+With that said , I'd say I am interested in ;   
+    1. the Human being. People are mezmerizing.
+    2. Technology ; of all kind. Machinery is amazing, AI all of it.
+    3. Differnt Types of Music ; I love all music. I think music is speech to your heart and neverves. Hear music you love and you feel it in your skin.
 
 ## Websites I Find interesting
     1. [Youtube](www.youtube.com) It has a lot of valuable information, not just short form videos. I listen to;

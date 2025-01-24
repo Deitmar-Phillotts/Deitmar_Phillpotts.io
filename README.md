@@ -5,8 +5,8 @@
 My name is *Deitmar Phillpotts* , I attend **Wake Tech Community College** and I am in my first year.  Online classes is something new to me. That being the case I hope I am successful in this class.  
 This is my school account, and I plan to build my GITHub knowledge here.
 
-## Assignment 2
+### Assignment 2
 [Click to find out a little bit about me here, I briefly tell you about my background and things I like to do.](AboutMe.md)
 
-## Lab 2
+### Lab 2
 [Also click to see my idea of a Cookie business called Cookie Land](Cookie_Land.md)

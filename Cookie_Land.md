@@ -78,4 +78,4 @@ erDiagram
 
 [Click link to view Breakdown of this diagram, which was done using ChatGpt. I used the AI as it would avoid errors in grammar. Also this is the future, AI will be involved in coding in a greater degree.](cookieland_breakdown.md)
 
-[Home](REDME.md)
+[Home](README.md)

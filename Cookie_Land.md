@@ -26,7 +26,7 @@ erDiagram
     COOKIE_PRODUCTION }|--|{ BAKERS_STAFF_UTILITIES : "created by"
     RETAIL_STORE }|--|| PROFIT : "Preferred pricing Options"
     PROFIT ||--o{ BAKERS_STAFF_UTILITIES : "BusinessOverhead"
-    BAKERS_STAFF_UTILITIES }|--|{ RETAIL_STORE : "Purchase Ingredients/Material"
+    BAKERS_STAFF_UTILITIES }|--|{ RETAIL_STORE : "Purchase Ingredients and Material"
     BAKERS_STAFF_UTILITIES ||--|{ COOKIE_PRODUCTION : "Develop New Flavors"
     PROFIT ||--|{ INVESTMENT : "Busines Growth"
     INVESTMENT }|--|{ BAKERS_STAFF_UTILITIES : "Yearly Bonus"
@@ -74,6 +74,7 @@ erDiagram
         int customerId PK
         string orderDate
     }
+
 ```
 
 [Click link to view Breakdown of this diagram, which was done using ChatGpt. I used the AI as it would avoid errors in grammar. Also this is the future, AI will be involved in coding in a greater degree.](cookieland_breakdown.md)

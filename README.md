@@ -59,7 +59,8 @@ With that said , I'd say I am interested in ;
        * History
        * Documentary
        * Even books, like [**Animal Farm** by *George Orwell*](https://www.youtube.com/watch?v=kc78arfcmRo&t=4233s). *This is a beautiful book, very deep. A must read.*
-   2. [Spotify](www.spotify.com), I use the app. It has more music than I know what to do with. Beautiful invention, much better than Napster.
+   2. [Spotify](www.spotify.com), I use the app. It has more music than I know what to do with. Beautiful invention, much better than Napster.  
+         I like listening to podcasts too... like [Joe Rogan](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk)
    3. Also I found *Robinhood* (*investment*), don't know much. Learning little at a time. 
  
  Here is my [Spotify playlist] , also on Spotify my current [book]. The name of the [book] is [**Fooled by Randomness: The Hidden Role of Chance** *by Nassim Nicholas Taleb*.][book]. It is nice to listen to someone read.

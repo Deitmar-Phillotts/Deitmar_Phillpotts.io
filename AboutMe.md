@@ -9,7 +9,7 @@ I have three sisters, and my Mom is still alive and well. All here in America wi
 My mother showed incredible determination in bringing my family and I to America, a process that took her 12 years.  
 I am also a proud parent to a son who serves in the army, embodying the same strength and dedication that seems to run in the family.  
 
- ### My Role Models - *The Men WHo Shaped My Psychy*
+### My Role Models - *The Men WHo Shaped My Psychy*
  
  My Grandfather served in Guantanamo Bay. He was quiet and unassuming, hard worker. Never disagreeing with my Grandmother.   
 My late father played a part in shaping my life story. One day he said to me "*I trust no one, not even you*." He is dead now, and now I miss him.
@@ -36,7 +36,7 @@ I pointed all of this out to say that wew are living in a time when there are gr
 Better than the days of BASIC or QBasic (only 1980s kids will know what I'm talking about).
 LOL!! (*me getting with the times*)
 
- ## My Interests
+## My Interests
     
  I find solace in my own company, I live trouble free and I try to keep my mind clear. I have very few interests, I'd rather go to bed.  
 With that said , I'd say I am interested in ;

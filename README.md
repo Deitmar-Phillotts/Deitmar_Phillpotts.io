@@ -4,7 +4,7 @@
 
 My name is *Deitmar Phillpotts* , I attend **Wake Tech Community College** and I am in my first year.  Online classes is something new to me. That being the case I hope I am successful in this class.  
 This is my school account, and I plan to build my GITHub knowledge here.
-
+[about me](AboutMe.md)
 ## About Me
 
  I grew up in Jamaica which can be really challenging.  I have many scars and broken bones to prove it.  
